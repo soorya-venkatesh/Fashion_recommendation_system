@@ -1,6 +1,7 @@
 # Fashion_recommendation_system
 
 ## Data collection:
+The data was collected from amazons product advertising API.(https://webservices.amazon.com/paapi5/documentation/)
 
 ## Problem Statement:
 Given a fashion product(such as a shirt), recommend similar products to it
